@@ -1,0 +1,37 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "https://*.insurancedekho.com",
+            "http://*.insurancedekho.com",
+            "https://*.idedge.in",
+            "http://*.idedge.in"
+        ],
+        "ExposeHeaders": [],
+        "MaxAgeSeconds": 3000
+    }
+]
+
+ALLL
+
+
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "GET"
+        ],
+        "AllowedOrigins": [
+            "*"
+        ],
+        "ExposeHeaders": [],
+        "MaxAgeSeconds": 3000
+    }
+]
